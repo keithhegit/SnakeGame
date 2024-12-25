@@ -1,0 +1,326 @@
+{
+  "daily": {
+    "EASY": [
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.093135
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.1083014
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.124064
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.1405983
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.158522
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.1767979
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.190111
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.2057042
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.2217922
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.2382252
+      }
+    ],
+    "MEDIUM": [],
+    "HARD": [
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.519842
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.5363636
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.5518806
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.5698307
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.5847232
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.6013515
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.6195333
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.6350508
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.6520717
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.6691136
+      }
+    ],
+    "INFINITE": []
+  },
+  "weekly": {
+    "EASY": [
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.093135
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.1083014
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.124064
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.1405983
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.158522
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.1767979
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.190111
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.2057042
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.2217922
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.2382252
+      }
+    ],
+    "MEDIUM": [],
+    "HARD": [
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.519842
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.5363636
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.5518806
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.5698307
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.5847232
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.6013515
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.6195333
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.6350508
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.6520717
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.6691136
+      }
+    ],
+    "INFINITE": []
+  },
+  "all_time": {
+    "EASY": [
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.093135
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.1083014
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.124064
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.1405983
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.158522
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.1767979
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.190111
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.2057042
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.2217922
+      },
+      {
+        "name": "玩家",
+        "score": 405,
+        "timestamp": 1735146348.2382252
+      }
+    ],
+    "MEDIUM": [],
+    "HARD": [
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.519842
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.5363636
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.5518806
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.5698307
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.5847232
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.6013515
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.6195333
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.6350508
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.6520717
+      },
+      {
+        "name": "玩家",
+        "score": 0,
+        "timestamp": 1735144975.6691136
+      }
+    ],
+    "INFINITE": []
+  }
+}

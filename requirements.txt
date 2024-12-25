@@ -1,0 +1,3 @@
+pygame==2.6.1
+# 添加中文字体支持
+pygame-font-freetype==0.1.0 
